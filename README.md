@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Joe Konno</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mechajoe&title=Commit,Issue" alt="mechajoe" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
