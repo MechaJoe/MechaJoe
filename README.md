@@ -10,4 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechajoe&count_private=true&show_icons=true&locale=en&layout=compact" alt="mechajoe" /></p>
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=mechajoe&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api/?username=mechajoe&count_private=true&show_icons=true&locale=en&layout=compact&hide_rank=true)" alt="mechajoe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=mechajoe&count_private=true&show_icons=true&locale=en&layout=compact&hide_rank=true" alt="mechajoe" /></p>
